@@ -1,7 +1,8 @@
 # Credit Risk Analyzer
 
-Predicting loan default on the UCI German Credit dataset, with attention to
-metric choice, decision thresholds, and regulatory constraints on feature use.
+This project started from a simple question: when a lender approves or declines an application, what's actually happening underneath? The answer turns out to be less about the model and more about where you set the threshold.
+
+Predicting loan default on the UCI German Credit dataset, with attention to metric choice, decision thresholds, and regulatory constraints on feature use.
 
 ## Results
 
