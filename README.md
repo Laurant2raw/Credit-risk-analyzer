@@ -15,6 +15,9 @@ Predicting loan default on the UCI German Credit dataset, with attention to metr
 Gradient boosting outperformed logistic regression by 0.025 AUC — a real but
 modest gain, discussed under *Model choice* below.
 
+
+![ROC curve](roc_curve.png)
+
 ## Data
 
 UCI German Credit (via OpenML `credit-g`): 1,000 labeled records, 20 features,
